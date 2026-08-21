@@ -1,0 +1,13 @@
+MÔ TẢ CÁC TRƯỜNG DỮ LIỆU TRONG FILE ibtracs_vietnam.csv
+-------------------------------------------------------------
+1. SID: Mã định danh duy nhất của cơn bão (Storm ID).
+2. NAME: Tên quốc tế của cơn bão.
+3. ISO_TIME: Thời gian quan trắc (định dạng YYYY-MM-DD HH:MM:SS, UTC).
+4. YEAR: Năm xuất hiện cơn bão.
+5. MONTH: Tháng xuất hiện cơn bão.
+6. LAT: Vị độ (Latitude, độ Bắc).
+7. LON: Kinh độ (Longitude, độ Đông).
+8. WMO_WIND: Tốc độ gió tối đa sustained (đơn vị: Knot).
+9. WIND_KMH: Tốc độ gió quy đổi sang km/h.
+10. WMO_PRES: Áp suất trung tâm bão (đơn vị: hPa/mb).
+11. TYPHOON_GRADE: Phân loại cấp bão theo chuẩn Việt Nam / Tây Bắc Thái Bình Dương.
